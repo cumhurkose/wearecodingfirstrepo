@@ -5,7 +5,7 @@ a sample repo
 First, Clone the project.
 
 ````
-git clone https://github.com/cumhurkose/wearecodingfirstrepo.git)
+git clone https://github.com/cumhurkose/wearecodingfirstrepo.git
 ````
 
 ## Usage
